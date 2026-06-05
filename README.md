@@ -315,9 +315,15 @@ Useful resources and dependencies that are used in Genius.
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fgenius-ai "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
+[![Follow Me](https://img.shields.io/github/followers/Dinesh6361?style=social\&label=Follow\&maxAge=2592000)](https://github.com/Dinesh6361 "Follow Me")
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh6361-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dinesh6361)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@farmer__huduga__dinesh-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/farmer_huduga_dinesh)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Dinesh%20S-red?logo=youtube\&logoColor=white)](https://youtube.com/@dineshs-w4h?si=MvcvWKHpxG_iUbAp)
+
+[![Gmail](https://img.shields.io/badge/Gmail-dineshs200315%40gmail.com-D14836?logo=gmail\&logoColor=white)](mailto:dineshs200315@gmail.com)
 
 ## :books: Learn More
 
